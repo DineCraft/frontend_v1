@@ -36,7 +36,7 @@ const LoginScreen = ({ history }) => {
                 <div className="card">
                     <div className="card-header ">
                         <div className="login-logo">
-                            <b>Restobar</b>
+                            <b>DineCraft</b>
                             <div className="text-center">
                                 <img
                                     className="profile-user-img img-fluid img-circle"
